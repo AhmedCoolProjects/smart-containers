@@ -1,0 +1,34 @@
+[
+    {
+        "id": "1",
+        "name": "Container 1",
+        "hum": "80 %",
+        "inTemp": "20 °C",
+        "outTemp": "32 °C",
+        "location": "https://goo.gl/maps/6zEzgRCWvv5D1i5s8"
+    },
+    {
+        "id": "2",
+        "name": "Container 2",
+        "hum": "75 %",
+        "inTemp": "15 °C",
+        "outTemp": "40 °C",
+        "location": "https://goo.gl/maps/ZfrYyu4EtjWdZCh88"
+    },
+    {
+        "id": "3",
+        "name": "Container 3",
+        "hum": "82 %",
+        "inTemp": "22 °C",
+        "outTemp": "34 °C",
+        "location": "https://goo.gl/maps/EtjR2ZsvhVR6tT3r5"
+    },
+    {
+        "id": "4",
+        "name": "Container 4",
+        "hum": "65 %",
+        "inTemp": "19 °C",
+        "outTemp": "32 °C",
+        "location": "https://goo.gl/maps/41xJFeozDzypViqD8"
+    }
+]
